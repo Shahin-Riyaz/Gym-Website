@@ -1,5 +1,4 @@
-
-an E-commerce Website built with MERN stack.
+A gym website with and intergrated ecommerce store
 
 ## Instructions
 
